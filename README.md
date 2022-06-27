@@ -1,9 +1,10 @@
 # Who dis?
 Heyo!👋 <br>
 I'm Gabriel, a former Localization Manager, currently a _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/)✨.
-
+*  🧔‍♂️ He/Him
 *  🧠 Learning C
 *  🌎 Available in EN and PT-BR
+*  📫 reach me @ grsaiago@gmail.com
 
 <a href="https://github.com/Grsaiago/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Grsaiago&show_icons=true&theme=dracula" />
