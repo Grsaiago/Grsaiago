@@ -4,7 +4,8 @@ I'm Gabriel, a former Localization Manager, currently a _cadet_ (Software Engine
 *  🧔‍♂️ He/Him
 *  🧠 Learning C
 *  🌎 Available in EN and PT-BR
-*  📫 reach me @ grsaiago@gmail.com
+*  📫 Reach me @ grsaiago@gmail.com
+*  🎮 Fun fact: My mom first introduced me to video games when I was arround 5 and i've been playing ever since!
 
 <a href="https://github.com/Grsaiago/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Grsaiago&show_icons=true&theme=dracula" />
