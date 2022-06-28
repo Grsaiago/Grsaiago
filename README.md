@@ -1,7 +1,7 @@
 # Who dis?
 Heyo!👋 <br>
 I'm Gabriel, a former Localization Manager, currently a _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/)✨.
-*  🧔‍♂️ He/Him
+*  🧔‍ He/Him
 *  🧠 Learning C
 *  🌎 Available in EN and PT-BR
 *  📫 Reach me @ grsaiago@gmail.com 
