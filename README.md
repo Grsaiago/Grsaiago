@@ -1,6 +1,6 @@
 # Who dis?
 Heyo!👋 <br>
-I'm Gabriel, a former Localization Manager, currently a _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/)✨.
+I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/)✨.
 *  🧔   He/Him
 *  🧠   Learning C
 *  🌎   Available in EN and PT-BR
