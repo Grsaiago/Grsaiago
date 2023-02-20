@@ -21,7 +21,7 @@ I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software
 ## How's 42 going?
 [![gsaiago's 42 stats](https://badge42.vercel.app/api/v2/cl4lmoz4w00350ak3yoti9w9h/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 <br> <br/>
-#### Rank 1
+### Rank 1
 
 <a href="https://github.com/Grsaiago/libft">
   <img src="https://user-images.githubusercontent.com/98427284/175352149-d1146a34-d163-4d0e-806f-1c63c04d3663.png" height="90" width="90">
@@ -37,7 +37,7 @@ I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software
 </a>
 <br> <br/>
 
-#### Rank 2
+### Rank 2
 <a href="https://github.com/Grsaiago/Minitalk">
   <img src="https://user-images.githubusercontent.com/98427284/215275917-3d4df0d9-b696-4c05-94bc-52333cc6683c.png" height="90" width="90">
 </a>
@@ -49,7 +49,7 @@ I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software
 </a>
 <br> <br/>
 
-#### Rank 3
+### Rank 3
 <a href="https://github.com/Grsaiago/Philosophers">
   <img src="https://user-images.githubusercontent.com/98427284/215276897-36c0f69d-d532-4471-aea4-5c8ee5037a8c.png" height="90" width="90">
 </a>
