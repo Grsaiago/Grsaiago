@@ -2,9 +2,9 @@
 Heyo!👋 <br>
 I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/)✨.
 *  🧔   He/Him
-*  🧠   Learning C
+*  🧠   Learning C and Assembly
 *  🌎   Available in EN and PT-BR
-*  📫   Reach me @ grsaiago@gmail.com 
+*  📫   Reach me @ grsaiago@gmail.com
 *  🕴   I'm also on [Linkedin](https://linkedin.com/in/grsaiago/)
 *  🎮   Fun fact: My mom first introduced me to video games when I was arround 5 and i've been playing ever since!
 
