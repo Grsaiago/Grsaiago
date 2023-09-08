@@ -2,7 +2,7 @@
 Heyo!👋 <br>
 I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/)✨.
 *  🧔   He/Him
-*  🧠   Learning C and Assembly
+*  🧠   Learning C, C++, and Assembly
 *  🌎   Available in EN and PT-BR
 *  📫   Reach me @ grsaiago@gmail.com
 *  🕴   I'm also on [Linkedin](https://linkedin.com/in/grsaiago/)
