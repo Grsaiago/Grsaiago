@@ -13,7 +13,8 @@ I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software
 <a href="https://github.com/Grsaiago/github-readme-stats">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grsaiago&show_icons=true&theme=dracula" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Grsaiago&show_icons=true&theme=dracula" />
-<div/>
+</a>
+</div>
 <br> <br/>
 <i>NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.<i/>
 
