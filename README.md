@@ -1,4 +1,4 @@
-# Who dis?
+# whoami?
 Heyo!👋 <br>
 I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/) && backend dev [@local](https://www.instagram.com/beloc.al/)✨.
 *  🧔   He/Him
@@ -9,12 +9,11 @@ I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software
 *  🎮   Fun fact: My mom first introduced me to video games when I was arround 5 and i've been playing ever since!
 
 ---
+<div align="center">
 <a href="https://github.com/Grsaiago/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Grsaiago&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/Grsaiago/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grsaiago&show_icons=true&theme=dracula" />
-</a>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grsaiago&show_icons=true&theme=dracula" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Grsaiago&show_icons=true&theme=dracula" />
+<div/>
 <br> <br/>
 <i>NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.<i/>
 
