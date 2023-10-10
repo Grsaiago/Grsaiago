@@ -10,7 +10,7 @@ I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software
 
 ---
 <div align="center">
-<a href="https://github.com/Grsaiago/github-readme-stats">
+<a href="https://github.com/Grsaiago">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grsaiago&show_icons=true&theme=dracula" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Grsaiago&show_icons=true&theme=dracula" />
 </a>
