@@ -25,7 +25,6 @@ I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software
 isso tá comentado pq não tá funcionando o bag do badge
 -->
 ### Rank 1
-
 <a href="https://github.com/Grsaiago/libft">
   <img src="https://user-images.githubusercontent.com/98427284/175352149-d1146a34-d163-4d0e-806f-1c63c04d3663.png" height="90" width="90">
 </a>
