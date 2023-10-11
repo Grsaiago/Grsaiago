@@ -60,3 +60,14 @@ isso tá comentado pq não tá funcionando o bag do badge
 <a href="https://github.com/Grsaiago/Minishell">
   <img src="https://github.com/Grsaiago/Grsaiago/assets/98427284/2bb3ab74-5f5e-4b3b-9a5a-cbfbcc6aa26d" height="90" width="90">
 </a>
+<br> <br/>
+
+### Rank 4
+
+<a>
+  <img src="https://github.com/Grsaiago/Grsaiago/assets/98427284/df542a91-6d30-4d9c-8b3a-85aa0be2f754" height="90" width="90">
+</a>
+
+<a href="https://github.com/Grsaiago/cpp_piscine">
+  <img src="https://github.com/Grsaiago/Grsaiago/assets/98427284/b0098b2b-f617-41db-99ae-28af6bfe8f49" height="90" width="90">
+</a>
