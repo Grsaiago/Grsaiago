@@ -16,7 +16,7 @@ I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software
 </a>
 </div>
 <br> <br/>
-<i>NOTE: Top Languages does not indicate my skill level or anything else; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.<i/>
+<i>NOTE: Top Languages does not indicate my skill level or anything else; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of GitHub-readme-stats.<i/>
 
 ## How's 42 going?
 <!---
@@ -56,18 +56,15 @@ isso tá comentado pq não tá funcionando o bag do badge
 <a href="https://github.com/Grsaiago/Philosophers">
   <img src="https://user-images.githubusercontent.com/98427284/215276897-36c0f69d-d532-4471-aea4-5c8ee5037a8c.png" height="90" width="90">
 </a>
-
 <a href="https://github.com/Grsaiago/Minishell">
   <img src="https://github.com/Grsaiago/Grsaiago/assets/98427284/2bb3ab74-5f5e-4b3b-9a5a-cbfbcc6aa26d" height="90" width="90">
 </a>
 <br> <br/>
 
 ### Rank 4
-
-<a>
+<a href="https://github.com/Grsaiago">
   <img src="https://github.com/Grsaiago/Grsaiago/assets/98427284/df542a91-6d30-4d9c-8b3a-85aa0be2f754" height="90" width="90">
 </a>
-
 <a href="https://github.com/Grsaiago/cpp_piscine">
   <img src="https://github.com/Grsaiago/Grsaiago/assets/98427284/b0098b2b-f617-41db-99ae-28af6bfe8f49" height="90" width="90">
 </a>
