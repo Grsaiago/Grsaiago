@@ -62,8 +62,8 @@ isso tá comentado pq não tá funcionando o bag do badge
 
 ### Rank 4
 <a href="https://github.com/Grsaiago">
-  <img src="https://github.com/Grsaiago/Grsaiago/assets/98427284/df542a91-6d30-4d9c-8b3a-85aa0be2f754" height="90" width="90">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/98427284/274426768-df542a91-6d30-4d9c-8b3a-85aa0be2f754.png" height="90" width="90">
 </a>
 <a href="https://github.com/Grsaiago/cpp_piscine">
-  <img src="https://github.com/Grsaiago/Grsaiago/assets/98427284/b0098b2b-f617-41db-99ae-28af6bfe8f49" height="90" width="90">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/98427284/274426946-b0098b2b-f617-41db-99ae-28af6bfe8f49.png" height="90" width="90">
 </a>
