@@ -55,7 +55,7 @@ isso tá comentado pq não tá funcionando o bag do badge
 <a href="https://github.com/Grsaiago/Philosophers">
   <img src="https://user-images.githubusercontent.com/98427284/215276897-36c0f69d-d532-4471-aea4-5c8ee5037a8c.png" height="90" width="90">
 </a>
-<a href="https://github.com/Grsaiago/Minishell">
+<a href="https://github.com/Grsaiago/minishell">
   <img src="https://github.com/Grsaiago/Grsaiago/assets/98427284/2bb3ab74-5f5e-4b3b-9a5a-cbfbcc6aa26d" height="90" width="90">
 </a>
 <br> <br/>
