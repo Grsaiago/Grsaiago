@@ -19,7 +19,10 @@ I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software
 <i>NOTE: Top Languages does not indicate my skill level or anything else; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of GitHub-readme-stats.<i/>
 
 ## How's 42 going?
+<!---
+isso tá comentado pq não tá funcionando o bag do badge
 [![gsaiago's 42 stats](https://badge42.vercel.app/api/v2/cl4lmoz4w00350ak3yoti9w9h/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+-->
 <br> <br/>
 
 ### Rank 1
