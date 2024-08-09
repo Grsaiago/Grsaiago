@@ -69,3 +69,15 @@ isso tá comentado pq não tá funcionando o bag do badge
 <a href="https://github.com/Grsaiago/cpp_piscine">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/98427284/274426946-b0098b2b-f617-41db-99ae-28af6bfe8f49.png" height="90" width="90">
 </a>
+
+## Featured Side projects
+| In 🦀 Rust 🦀 | in ✨ C ✨ | In ✨ Go ✨ |
+| --- | --- | --- |
+| <a href="https://github.com/Grsaiago/philosophe_rs">![philosophe_rs][philosophe_rs_repocard]</a> | <a href="https://github.com/Grsaiago/hashmapC">![hashmapC][hashmapC_repocard]</a> | <a href="https://github.com/Grsaiago/go_rchat">![go_rchat][go_rchat_repocard] |
+| <a href="https://github.com/Grsaiago/rudis"> ![rudis][rudis_repocard]</a> | --- | --- |
+
+
+[philosophe_rs_repocard]: https://github-readme-stats.vercel.app/api/pin/?username=Grsaiago&repo=philosophe_rs&theme=gruvbox
+[rudis_repocard]: https://github-readme-stats.vercel.app/api/pin/?username=Grsaiago&repo=rudis&theme=gruvbox
+[go_rchat_repocard]: https://github-readme-stats.vercel.app/api/pin/?username=Grsaiago&repo=go_rchat&theme=gruvbox
+[hashmapC_repocard]: https://github-readme-stats.vercel.app/api/pin/?username=Grsaiago&repo=hashmapC&theme=gruvbox
