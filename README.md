@@ -22,46 +22,46 @@ I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software
 ## How's 42 going?
 ### Rank 1
 <a href="https://github.com/Grsaiago/libft">
-  <img src="https://user-images.githubusercontent.com/98427284/175352149-d1146a34-d163-4d0e-806f-1c63c04d3663.png" height="90" width="90">
+  <img alt="libft" src="https://user-images.githubusercontent.com/98427284/175352149-d1146a34-d163-4d0e-806f-1c63c04d3663.png" height="90" width="90">
 </a>
 <a href="https://github.com/Grsaiago/ft_printf">
-  <img src="https://user-images.githubusercontent.com/98427284/175838265-59e18bf3-b8b3-46d3-8b3e-1f7ce4b2e9a7.png" height="90" width="90">
+  <img alt="ft_printf" src="https://user-images.githubusercontent.com/98427284/175838265-59e18bf3-b8b3-46d3-8b3e-1f7ce4b2e9a7.png" height="90" width="90">
 </a>
 <a href="https://github.com/Grsaiago/get_next_line">
-  <img src="https://user-images.githubusercontent.com/98427284/215275443-863df3a6-73cc-4e2f-a7b1-23449db27ce7.png" height="90" width="90">
+  <img alt="get_next_line" src="https://user-images.githubusercontent.com/98427284/215275443-863df3a6-73cc-4e2f-a7b1-23449db27ce7.png" height="90" width="90">
 </a>
 <a href="https://github.com/Grsaiago">
-  <img src="https://user-images.githubusercontent.com/98427284/215275521-2e682c7c-e64e-4aaa-8e2e-2c2e561035db.png" height="90" width="90">
+  <img alt="born2beroot" src="https://github.com/user-attachments/assets/ce091b07-fe28-4a55-8483-09d80867d0d7" height="90" width="90">
 </a>
 <br> <br/>
 
 ### Rank 2
 <a href="https://github.com/Grsaiago/Minitalk">
-  <img src="https://user-images.githubusercontent.com/98427284/215275917-3d4df0d9-b696-4c05-94bc-52333cc6683c.png" height="90" width="90">
+  <img alt="minitalk" src="https://user-images.githubusercontent.com/98427284/215275917-3d4df0d9-b696-4c05-94bc-52333cc6683c.png" height="90" width="90">
 </a>
 <a href="https://github.com/Grsaiago/so_long">
-  <img src="https://user-images.githubusercontent.com/98427284/215276466-c730acbb-8279-463b-927f-1e8017469797.png" height="90" width="90">
+  <img alt="so_long" src="https://user-images.githubusercontent.com/98427284/215276466-c730acbb-8279-463b-927f-1e8017469797.png" height="90" width="90">
 </a>
 <a href="https://github.com/Grsaiago/push_swap">
-  <img src="https://user-images.githubusercontent.com/98427284/215276770-a1c06dc9-660b-4069-a31f-3134f3d667e1.png" height="90" width="90">
+  <img alt="push_swap" src="https://user-images.githubusercontent.com/98427284/215276770-a1c06dc9-660b-4069-a31f-3134f3d667e1.png" height="90" width="90">
 </a>
 <br> <br/>
 
 ### Rank 3
 <a href="https://github.com/Grsaiago/Philosophers">
-  <img src="https://user-images.githubusercontent.com/98427284/215276897-36c0f69d-d532-4471-aea4-5c8ee5037a8c.png" height="90" width="90">
+  <img alt="philosophers" src="https://user-images.githubusercontent.com/98427284/215276897-36c0f69d-d532-4471-aea4-5c8ee5037a8c.png" height="90" width="90">
 </a>
 <a href="https://github.com/Grsaiago/minishell">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/98427284/274425723-2bb3ab74-5f5e-4b3b-9a5a-cbfbcc6aa26d.png" height="90" width="90">
+  <img alt="minishell" src="https://github-production-user-asset-6210df.s3.amazonaws.com/98427284/274425723-2bb3ab74-5f5e-4b3b-9a5a-cbfbcc6aa26d.png" height="90" width="90">
 </a>
 <br> <br/>
 
 ### Rank 4
 <a href="https://github.com/Grsaiago">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/98427284/274426768-df542a91-6d30-4d9c-8b3a-85aa0be2f754.png" height="90" width="90">
+  <img alt="netpractice" src="https://github-production-user-asset-6210df.s3.amazonaws.com/98427284/274426768-df542a91-6d30-4d9c-8b3a-85aa0be2f754.png" height="90" width="90">
 </a>
 <a href="https://github.com/Grsaiago/cpp_piscine">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/98427284/274426946-b0098b2b-f617-41db-99ae-28af6bfe8f49.png" height="90" width="90">
+  <img alt="cpp" src="https://github-production-user-asset-6210df.s3.amazonaws.com/98427284/274426946-b0098b2b-f617-41db-99ae-28af6bfe8f49.png" height="90" width="90">
 </a>
 
 ## Featured Side projects
