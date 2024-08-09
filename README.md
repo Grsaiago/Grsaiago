@@ -9,7 +9,6 @@ I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software
 *  🕴   I'm also on [Linkedin](https://linkedin.com/in/grsaiago/)
 *  🎮   Fun fact: My mom introduced me to video games when I was around 5 and I've been playing ever since!
 
----
 <div align="center">
 <a href="https://github.com/Grsaiago">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grsaiago&show_icons=true&theme=gruvbox" />
