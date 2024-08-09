@@ -63,6 +63,18 @@ I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software
 <a href="https://github.com/Grsaiago/cpp_piscine">
   <img alt="cpp" src="https://github-production-user-asset-6210df.s3.amazonaws.com/98427284/274426946-b0098b2b-f617-41db-99ae-28af6bfe8f49.png" height="90" width="90">
 </a>
+<a href="https://github.com/Grsaiago/cube3d">
+  <img alt="cub3d" src="https://github.com/user-attachments/assets/bc929670-9263-4c75-beb3-5d982cc85dad" height="90" width="90">
+</a>
+<br></br>
+
+### Rank 5
+<a href="https://github.com/Grsaiago">
+  <img alt="inception" src="https://github.com/user-attachments/assets/8603a7a3-bb22-41c9-bb0a-ae7c8b9ca15e" height="90" width="90">
+</a>
+<a href="https://github.com/Grsaiago">
+  <img alt="webserv" src="https://github.com/user-attachments/assets/aae4d2ee-f65f-460a-95c2-6dcc45eded81" height="90" width="90">
+</a>
 
 ## Featured Side projects
 | In 🦀 Rust 🦀 | in ✨ C ✨ | In ✨ Go ✨ |
