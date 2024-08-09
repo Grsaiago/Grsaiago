@@ -1,6 +1,7 @@
 # whoami?
+
 Heyo!👋 <br>
-I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/) && backend dev ✨.
+I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/) && backend dev ✨. <br>
 *  🧔   He/Him
 *  🧠   C, C++, Go, Rust, JS / TS (and a bit of asm xD)
 *  🌎   Available in EN and PT-BR
@@ -11,8 +12,8 @@ I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software
 ---
 <div align="center">
 <a href="https://github.com/Grsaiago">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grsaiago&show_icons=true&theme=gruvbbox" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Grsaiago&show_icons=true&theme=gruvbox" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grsaiago&show_icons=true&theme=gruvbox" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Grsaiago&show_icons=true&theme=gruvbox" />
 </a>
 </div>
 <br> <br/>
