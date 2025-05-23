@@ -1,9 +1,9 @@
 # whoami?
 
 Heyo!👋 <br>
-I'm Gabriel Saiago, a former Localization Manager, currently a _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/) && backend dev ✨. <br>
+I'm Gabriel Saiago, Bakcend Dev && _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/)✨. <br>
 *  🧔   He/Him
-*  🧠   C, C++, Go, Rust, JS / TS (and a bit of asm xD)
+*  🧠   C\C++, x86-64 asm, Rust, Go, TS
 *  🌎   Available in EN and PT-BR
 *  📫   Reach me @ grsaiago@gmail.com
 *  🕴   I'm also on [Linkedin](https://linkedin.com/in/grsaiago/)
