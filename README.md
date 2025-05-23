@@ -83,7 +83,7 @@ I'm Gabriel Saiago, Backend Dev && _cadet_ (Software Engineering Student) [@42Ri
 
 
 [philosophe_rs_repocard]: https://github-readme-stats.vercel.app/api/pin/?username=Grsaiago&repo=philosophe_rs&theme=gruvbox
-[maelstrom_rust_repocard]: https://github-readme-stats.vercel.app/api/pin/?username=Grsaiago&repo=maelstrom_rust&theme=gruvbox
+[maelstrom_rust_repocard]: https://github-readme-stats.vercel.app/api/pin/?username=Grsaiago&repo=maelstrom-rust&theme=gruvbox
 
 [my_ping_repocard]: https://github-readme-stats.vercel.app/api/pin/?username=Grsaiago&repo=my_ping&theme=gruvbox
 [hashmapC_repocard]: https://github-readme-stats.vercel.app/api/pin/?username=Grsaiago&repo=hashmapC&theme=gruvbox
