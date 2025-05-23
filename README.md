@@ -1,7 +1,7 @@
 # whoami?
 
 Heyo!👋 <br>
-I'm Gabriel Saiago, Bakcend Dev && _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/)✨. <br>
+I'm Gabriel Saiago, Backend Dev && _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/)✨. <br>
 *  🧔   He/Him
 *  🧠   C\C++, x86-64 asm, Rust, Go, TS
 *  🌎   Available in EN and PT-BR
