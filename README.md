@@ -78,14 +78,14 @@ I'm Gabriel Saiago, Backend Dev && _cadet_ (Software Engineering Student) [@42Ri
 ## Featured Side projects
 | In 🦀 Rust 🦀 | in ✨ C ✨ | In ✨ Go ✨ |
 | :---: | :---: | :---: |
-| <a href="https://github.com/Grsaiago/philosophe_rs">![philosophe_rs][philosophe_rs_repocard]</a> | <a href="https://github.com/Grsaiago/philosophers">![philo][philo_repocard]</a> | <a href="https://github.com/Grsaiago/go_rchat">![go_rchat][go_rchat_repocard] |
+| <a href="https://github.com/Grsaiago/philosophe_rs">![philosophe_rs][philosophe_rs_repocard]</a> | <a href="https://github.com/Grsaiago/philosophers">![philo][my_ping_repocard]</a> | <a href="https://github.com/Grsaiago/go_rchat">![go_rchat][go_rchat_repocard] |
 | <a href="https://github.com/Grsaiago/rudis"> ![rudis][rudis_repocard]</a> | <a href="https://github.com/Grsaiago/hashmapC">![hashmapC][hashmapC_repocard]</a> | --- |
 
 
 [philosophe_rs_repocard]: https://github-readme-stats.vercel.app/api/pin/?username=Grsaiago&repo=philosophe_rs&theme=gruvbox
 [rudis_repocard]: https://github-readme-stats.vercel.app/api/pin/?username=Grsaiago&repo=rudis&theme=gruvbox
 
-[philo_repocard]: https://github-readme-stats.vercel.app/api/pin/?username=Grsaiago&repo=philosophers&theme=gruvbox
+[my_ping_repocard]: https://github-readme-stats.vercel.app/api/pin/?username=Grsaiago&repo=my_ping&theme=gruvbox
 [hashmapC_repocard]: https://github-readme-stats.vercel.app/api/pin/?username=Grsaiago&repo=hashmapC&theme=gruvbox
 
 [go_rchat_repocard]: https://github-readme-stats.vercel.app/api/pin/?username=Grsaiago&repo=go_rchat&theme=gruvbox
